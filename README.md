@@ -1,7 +1,7 @@
 # opencv_ip_cameraca
-1.openCV2.7
-2.ubuntu18.04
-3.gtk-1.0
+openCV2.7
+ubuntu18.04
+gtk-1.0
 
 android APP:
 IP Webcam
